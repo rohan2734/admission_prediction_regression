@@ -37,3 +37,5 @@
 
 ## Demonstration of the Project 
 
+[![admission prediction](https://user-images.githubusercontent.com/58523134/232194683-bbdd3448-b3b7-49b2-8386-e4fed462cee3.png)
+](https://youtu.be/vFma0LEYVZE)
